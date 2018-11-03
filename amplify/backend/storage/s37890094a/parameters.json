@@ -1,0 +1,9 @@
+{
+    "bucketName": "user-pic-bucket",
+    "authPolicyName": "s3_amplify_7890094a",
+    "unauthPolicyName": "s3_amplify_7890094a",
+    "authRoleName": "ndroidpp-20181030205129-authRole",
+    "unauthRoleName": "ndroidpp-20181030205129-unauthRole",
+    "authPermissions": "rw",
+    "unauthPermissions": "r"
+}
